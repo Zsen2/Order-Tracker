@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:fruit_inv/pages/home.dart';
-import 'package:fruit_inv/pages/stocks.dart';
 
 void main() {
   runApp(const MyApp());
